@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-component id="component1" component-type="text">
+	<title>Text Object 1</title>
+	<compbody>
+	<p> TEXT1 </p>
+	<p> TEXT2 <ph keyref="variable1" outputclass = "standout"/> TEXT2 continued </p>
+	<ol>
+		<li> TEXT3 </li>
+		<li> TEXT4 <ph keyref="variable2" outputclass = "standout"/> TEXT2 continued </li>
+		<li> TEXT3 </li>
+	</ol>
+	</compbody>
+</xml-component>

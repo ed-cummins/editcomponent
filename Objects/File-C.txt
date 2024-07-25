@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-component id="table1" component-type="table">
+	<title>Table 1</title>
+	<compbody>
+	<table frame="all" rowsep="1" colsep="1">
+	<tgroup cols="2">
+		<thead>
+			<row>
+			<entry>Attributes</entry>
+			<entry>Values</entry>
+			</row>
+		</thead>
+		<tbody>
+			<row>
+			<entry>Attribute1</entry>
+			<entry><ph keyref="variable3"</entry>
+			</row>
+			<row>
+			<entry>Attribute2</entry>
+			<entry>Entry1</entry>
+			</row>
+		</tbody>
+	</tgroup>
+	</table>
+	</compbody>
+</xml-component>
