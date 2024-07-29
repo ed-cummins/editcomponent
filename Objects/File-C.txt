@@ -13,7 +13,7 @@
 		<tbody>
 			<row>
 			<entry>Attribute1</entry>
-			<entry><ph keyref="variable3"</entry>
+			<entry><ph keyref="variable3"></ph></entry>
 			</row>
 			<row>
 			<entry>Attribute2</entry>
