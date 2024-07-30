@@ -10,21 +10,14 @@
 		<li> TEXT3 </li>
 	</ol>
 	</compbody>
-<title>Text Object 1</title>
-	<compbody>
-	<p>Modified text</p>
-	<p> TEXT2 <ph keyref="variable1" outputclass="standout" /> TEXT2 continued </p>
-	<ol>
-		<li> TEXT3 </li>
-	</ol>
-	</compbody>
 <title>Table 1</title>
 	<compbody>
 	<table frame="all" rowsep="1" colsep="1">
-	<tgroup cols="25555">
+	<tgroup cols="2">
 		<thead>
 			<row>
-			<entry>Attributes Modified.</entry>
+			<entry>Attributes</entry>
+			<entry>Values</entry>
 			</row>
 		</thead>
 		<tbody>
