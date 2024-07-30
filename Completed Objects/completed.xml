@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xml-component id="component1" component-type="text">
+	<title>Text Object 1</title>
+	<compbody>
+	<p> TEXT1 </p>
+	<p> TEXT2 <ph keyref="variable1" outputclass="standout" /> TEXT2 continued </p>
+	<ol>
+		<li> TEXT3 </li>
+		<li> TEXT4 <ph keyref="variable2" outputclass="standout" /> TEXT2 continued </li>
+		<li> TEXT3 </li>
+	</ol>
+	</compbody>
+<title>Text Object 1</title>
+	<compbody>
+	<p>Modified text</p>
+	<p> TEXT2 <ph keyref="variable1" outputclass="standout" /> TEXT2 continued </p>
+	<ol>
+		<li> TEXT3 </li>
+	</ol>
+	</compbody>
+<title>Table 1</title>
+	<compbody>
+	<table frame="all" rowsep="1" colsep="1">
+	<tgroup cols="25555">
+		<thead>
+			<row>
+			<entry>Attributes Modified.</entry>
+			</row>
+		</thead>
+		<tbody>
+			<row>
+			<entry>Attribute1</entry>
+			<entry><ph keyref="variable3" /></entry>
+			</row>
+			<row>
+			<entry>Attribute2</entry>
+			<entry>Entry1</entry>
+			</row>
+		</tbody>
+	</tgroup>
+	</table>
+	</compbody>
+</xml-component>
