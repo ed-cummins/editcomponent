@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-component id="Module3" component-type="text">
+	<title>Grant and Delegation of Authority</title>
+	<compbody>
+    	<p> The Underwriters authorise the Coverholder to: </p>
+	<ol>
+	<li> bind insurances and make subsequent amendments for the Underwriter's account </li>
+	<li> issue contract documentation, endorsements or such other documents evidencing insurances and amendments on the Underwriters' behalf </li>
+	<li> act as the Underwriters’ agent for the purpose of receiving premiums, settling refunds and receiving claims monies </li>
+	<li> handle claims and/or settle claims on the Underwriters’ behalf </li>
+	<li> handle complaints and/or settle disputes on the Underwriters’ behalf. </li>
+	</ol>    	
+<p> The Coverholder may delegate its authority for each of the following activities to any person, firm or company provided such delegation is under contract and the Underwriters are a party to the contract: </p>
+	<ol>
+	<li> bind insurances and make subsequent amendments for the Underwriter's account </li>
+	<li> issue contract documentation, endorsements or such other documents evidencing insurances and amendments on the Underwriters' behalf </li>
+	<li> act as the Underwriters’ agent for the purpose of receiving premiums, settling refunds and receiving claims monies </li>
+	<li> handle claims and/or settle claims on the Underwriters’ behalf </li>
+	<li> handle complaints and/or settle disputes on the Underwriters’ behalf. </li>
+	</ol>
+<p> The Coverholder will not delegate its authority for each of the following activities to any person, firm or company: </p>
+	<ol>
+	<li> bind insurances and make subsequent amendments for the Underwriter's account </li>
+	<li> issue contract documentation, endorsements or such other documents evidencing insurances and amendments on the Underwriters' behalf </li>
+	<li> act as the Underwriters’ agent for the purpose of receiving premiums, settling refunds and receiving claims monies </li>
+	<li> handle claims and/or settle claims on the Underwriters’ behalf </li>
+	<li> handle complaints and/or settle disputes on the Underwriters’ behalf. </li>
+	</ol>
+	</compbody>
+</xml-component>
