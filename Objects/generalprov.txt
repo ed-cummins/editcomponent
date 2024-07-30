@@ -13,7 +13,7 @@
     		<tbody>
 			<row>
 			<entry>Lead or Follow</entry>
-			<entry><ph keyref="Insurer1"</entry>
+			<entry><ph keyref="Insurer1"/></entry>
 			</row>
 			<row>
 			<entry>Lead or Follow</entry>
