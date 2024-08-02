@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-component id="Table of Security" component-type="tabular data structure">
+	<title>Table of Security</title>
+	<compbody>
+	<table frame="all" rowsep="1" colsep="1">
+	<tgroup cols="2">
+   		<thead>
+			<row>
+			<entry>Type i.e. Lead or Follow</entry>
+			<entry>Insurer</entry>
+			</row>
+		</thead>
+    		<tbody>
+			<row>
+			<entry>Lead or Follow</entry>
+			<entry><ph keyref="Insurer1"/></entry>
+			</row>
+			<row>
+			<entry>Lead or Follow</entry>
+			<entry>Insurer2</entry>
+			</row>
+			<row>
+			<entry>Lead or Follow</entry>
+			<entry>Insurer3</entry>
+			</row>
+		</tbody>
+	</tgroup>
+	</table>	
+	</compbody>
+</xml-component>
+<xml-component id="Module3" component-type="text">
+	<title>Grant and Delegation of Authority</title>
+	<compbody>
+    	<p> The Underwriters authorise the Coverholder to: </p>
+	<ol>
+	<li> bind insurances and make subsequent amendments for the Underwriter's account </li>
+	<li> issue contract documentation, endorsements or such other documents evidencing insurances and amendments on the Underwriters' behalf </li>
+	<li> act as the Underwriters’ agent for the purpose of receiving premiums, settling refunds and receiving claims monies </li>
+	<li> handle claims and/or settle claims on the Underwriters’ behalf </li>
+	<li> handle complaints and/or settle disputes on the Underwriters’ behalf. </li>
+	</ol>    	
+<p> The Coverholder may delegate its authority for each of the following activities to any person, firm or company provided such delegation is under contract and the Underwriters are a party to the contract: </p>
+	<ol>
+	<li> bind insurances and make subsequent amendments for the Underwriter's account </li>
+	<li> issue contract documentation, endorsements or such other documents evidencing insurances and amendments on the Underwriters' behalf </li>
+	<li> act as the Underwriters’ agent for the purpose of receiving premiums, settling refunds and receiving claims monies </li>
+	<li> handle claims and/or settle claims on the Underwriters’ behalf </li>
+	<li> handle complaints and/or settle disputes on the Underwriters’ behalf. </li>
+	</ol>
+<p> The Coverholder will not delegate its authority for each of the following activities to any person, firm or company: </p>
+	<ol>
+	<li> bind insurances and make subsequent amendments for the Underwriter's account </li>
+	<li> issue contract documentation, endorsements or such other documents evidencing insurances and amendments on the Underwriters' behalf </li>
+	<li> act as the Underwriters’ agent for the purpose of receiving premiums, settling refunds and receiving claims monies </li>
+	<li> handle claims and/or settle claims on the Underwriters’ behalf </li>
+	<li> handle complaints and/or settle disputes on the Underwriters’ behalf. </li>
+	</ol>
+	</compbody>
+</xml-component>
+<xml-component id="component1" component-type="text">
+	<title>Text Object 1</title>
+	<compbody>
+	<p> TEXT1 </p>
+	<p> TEXT2 <ph keyref="variable1" outputclass = "standout"/> TEXT2 continued </p>
+	<ol>
+		<li> TEXT3 </li>
+		<li> TEXT4 <ph keyref="variable2" outputclass = "standout"/> TEXT2 continued </li>
+		<li> TEXT3 </li>
+	</ol>
+	</compbody>
+</xml-component>
