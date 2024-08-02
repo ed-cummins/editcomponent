@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-component id="Module3" component-type="text">
+	<title>Grant and Delegation of Authority</title>
+	<compbody>
+    	<p> The Underwriters authorise the Coverholder to: </p>
+	<ol>
+	<li> bind insurances and make subsequent amendments for the Underwriter's account </li>
+	<li> issue contract documentation, endorsements or such other documents evidencing insurances and amendments on the Underwriters' behalf </li>
+	<li> act as the Underwriters’ agent for the purpose of receiving premiums, settling refunds and receiving claims monies </li>
+	<li> handle claims and/or settle claims on the Underwriters’ behalf </li>
+	<li> handle complaints and/or settle disputes on the Underwriters’ behalf. </li>
+	</ol>    	
+<p> The Coverholder may delegate its authority for each of the following activities to any person, firm or company provided such delegation is under contract and the Underwriters are a party to the contract: </p>
+	<ol>
+	<li> bind insurances and make subsequent amendments for the Underwriter's account </li>
+	<li> issue contract documentation, endorsements or such other documents evidencing insurances and amendments on the Underwriters' behalf </li>
+	<li> act as the Underwriters’ agent for the purpose of receiving premiums, settling refunds and receiving claims monies </li>
+	<li> handle claims and/or settle claims on the Underwriters’ behalf </li>
+	<li> handle complaints and/or settle disputes on the Underwriters’ behalf. </li>
+	</ol>
+<p> The Coverholder will not delegate its authority for each of the following activities to any person, firm or company: </p>
+	<ol>
+	<li> bind insurances and make subsequent amendments for the Underwriter's account </li>
+	<li> issue contract documentation, endorsements or such other documents evidencing insurances and amendments on the Underwriters' behalf </li>
+	<li> act as the Underwriters’ agent for the purpose of receiving premiums, settling refunds and receiving claims monies </li>
+	<li> handle claims and/or settle claims on the Underwriters’ behalf </li>
+	<li> handle complaints and/or settle disputes on the Underwriters’ behalf. </li>
+	</ol>
+	</compbody>
+</xml-component>
+<xml-component id="component1" component-type="text">
+	<title>Text Object 1</title>
+	<compbody>
+	<p> TEXT1 </p>
+	<p> TEXT2 <ph keyref="variable1" outputclass = "standout"/> TEXT2 continued </p>
+	<ol>
+		<li> TEXT3 </li>
+		<li> TEXT4 <ph keyref="variable2" outputclass = "standout"/> TEXT2 continued </li>
+		<li> TEXT3 </li>
+	</ol>
+	</compbody>
+</xml-component>
+<xml-component id="component1" component-type="text">
+	<title>Text Object 1</title>
+	<compbody>
+	<p> TEXT1 </p>
+	<p> TEXT2 <ph keyref="variable1" outputclass = "standout"/> TEXT2 continued </p>
+	<ol>
+		<li> TEXT3 </li>
+		<li> TEXT4 <ph keyref="variable2" outputclass = "standout"/> TEXT2 continued </li>
+		<li> TEXT3 </li>
+	</ol>
+	</compbody>
+</xml-component>
+<xml-component id="table1" component-type="table">
+	<title>Table 1</title>
+	<compbody>
+	<table frame="all" rowsep="1" colsep="1">
+	<tgroup cols="2">
+		<thead>
+			<row>
+			<entry>Attributes</entry>
+			<entry>Values</entry>
+			</row>
+		</thead>
+		<tbody>
+			<row>
+			<entry>Attribute1</entry>
+			<entry><ph keyref="variable3"></ph></entry>
+			</row>
+			<row>
+			<entry>Attribute2</entry>
+			<entry>Entry1</entry>
+			</row>
+		</tbody>
+	</tgroup>
+	</table>
+	</compbody>
+</xml-component>
+<xml-component id="Module1" component-type="text">
+	<title>Introduction and General Provisions</title>
+	<compbody>
+<p> This Binding Authority Agreement with Unique Market Reference Number <ph keyref="UMR" outputclass = "standout"/> is made between the Insurers with corresponding Identification Numbers and Proportions (shown in <ph keyref="Table of Security" outputclass = "standout"/>) (‘the Underwriters’), and <ph keyref="Coverholder Name" outputclass = "standout"/>, of <ph keyref="Coverholder Address" outputclass = "standout"/> (‘the Coverholder’). </p>
+<p> It is mutually understood and agreed between the Underwriters and the Coverholder as follows: </p>
+<p> General Provisions </p>
+	<ol>
+	<li> The Coverholder agrees to cooperate with and assist the Underwriters, their representatives and the Broker, <ph keyref="Broker Name" outputclass = "standout"/>, of <ph keyref="Broker Address" outputclass = "standout"/> (‘the Broker’) in all matters pertaining to the Agreement.</li>
+	<li> The Underwriters and the Coverholder shall comply with any direction, condition or requirement of any regulatory or supervisory body with jurisdiction over the Underwriters or the Coverholder, including any direction to terminate the Agreement. </li>
+	<li> Nothing in the Agreement shall be construed as creating the relationship of employer and employee between the Underwriters and the Coverholder. </li>
+	<li> The Underwriters and the Coverholder shall comply with all reasonable requests or requirements made in writing by one party to the other in relation to the operation of the Agreement, the insurances bound under the Agreement or any insurance claims arising from insurance. </li>
+	<li> The Underwriters and Coverholder shall not take any step(s) or undertake any act(s) or omit to do anything in relation to the services to be provided under the Agreement, including failing to act fairly to insureds, which is: first, in breach of any applicable law and/or regulations relating to insurances bound; and second, likely to be detrimental to the reputation of the other party. </li>
+	<li> The Coverholder undertakes to deal openly and cooperatively with any applicable regulatory or supervisory body in relation to the operation of the Agreement. The Coverholder shall permit any regulatory or supervisory body with jurisdiction over the Underwriters or the Coverholder to have access to any of its business premises where the Coverholder carries on business which is the subject of the Agreement to inspect and audit the records, statistical information, accounts and business processes relating to the operation of the Agreement. The Coverholder shall, unless prohibited by law, inform the Underwriters promptly in the event that any regulatory or supervisory body exercises or seeks to exercise any right to inspect or audit the records held by the Coverholder in relation to the Agreement. </li>
+	<li> The Underwriters, external auditors or other representatives appointed by the Underwriters shall have the right without any restriction or limitation, to inspect and audit any records, statistical information, systems and processes of the Coverholder relating to the operation of the Agreement and shall have the right to make copies or extracts of any such records. </li>
+	</ol> 
+	</compbody>
+</xml-component>
